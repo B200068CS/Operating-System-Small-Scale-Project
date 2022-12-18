@@ -1,4 +1,4 @@
-ATM Transaction using Shell Scripting
+# ATM Transaction using Shell Scripting
 
 OBJECTIVE: The prime objective of this mini-project is to enable the user perform various transaction operations based on the balance available in the user’s account. Other objectives may include:
 
